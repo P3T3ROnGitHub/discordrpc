@@ -1,0 +1,18 @@
+--- Custom Discord Rich Presence by P3T3R ---
+
+         --- HOW TO USE TUTORIAL ---
+
+> 1. Download the files from github
+> 2. Extract to an empty folder
+> 3. If you don't have an application, go to discord.com/developers, and log in with your discord account
+> 4. Create a new application with any name (you can rename anytime)
+> 5. Go to General Information, and copy your Application id
+> 6. Open config.env, and paste the application id to the CLIENTID field
+> 7. You can set a description in the DESCRIPTION field
+> 8. If you want to have an image in your RPC, go to the Rich Presence menu in the discord developer portal page, and upload any image
+> 9. Put the image name in the LARGE_IMAGE, SMALL_IMAGE or both IMAGE fields (you can set different images if you upload more image than 1)
+> 10. You can set the button text in the BUTTONTEXT field
+> 11. You can set the button url in the BUTTONURL field
+> 12. After you done with the configuration, run the exe file, and you're done!
+
+If you need an example how to setup the config file, open config-example.env!
